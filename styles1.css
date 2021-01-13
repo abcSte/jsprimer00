@@ -1,6 +1,6 @@
 
 p {
-    color: white;
+    color: black;
     font-family: 'Courier New', Courier, monospace;
     font-size: 100%;
     text-align: justify;
@@ -20,16 +20,12 @@ h3 {
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
     font-size: 100%;
-    color: white;
+    color: black;
 }
 
 #para1 {
     text-align: center;
     color: orange;
-  }
 
-body {
-    color: white;
-    background-color: black;
 }
 
